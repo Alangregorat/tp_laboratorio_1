@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1460162848 source:c:\users\alan\desktop\tp i programacion i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp.h"
+
+1460051767 c:\users\alan\desktop\tp i programacion i\tp.h
+
+1460074907 source:c:\users\alan\desktop\tp i programacion i\tp.c
+	<stdio.h>
+	<stdlib.h>
+
+1460074907 source:c:\users\alan\documents\github\programacion-i\tp i programacion i\tp.c
+	<stdio.h>
+	<stdlib.h>
+
